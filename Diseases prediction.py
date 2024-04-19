@@ -20,15 +20,15 @@ working_dir = os.path.dirname(os.path.abspath(__file__))
 
 # loading the saved models
 
-diabetes_model = pickle.load(open('C:/Users/Ritik/3D Objects/Health Guard System/Saved_models/Diabetes_model.sav', 'rb'))
+diabetes_model = pickle.load(open('Diabetes_model.sav', 'rb'))
 
-heart_disease_model = pickle.load(open('C:/Users/Ritik/3D Objects/Health Guard System/Saved_models/Heart_disease_model.sav', 'rb'))
+heart_disease_model = pickle.load(open('Heart_disease_model.sav', 'rb'))
 
-parkinsons_model = pickle.load(open('C:/Users/Ritik/3D Objects/Health Guard System/Saved_models/Parkinsons_model.sav', 'rb'))
+parkinsons_model = pickle.load(open('Parkinsons_model.sav', 'rb'))
 
-breast_cancer_model=pickle.load(open('C:/Users/Ritik/3D Objects/Health Guard System/Saved_models/Breast_cancer_model.sav', 'rb'))
+breast_cancer_model=pickle.load(open('Breast_cancer_model.sav', 'rb'))
 
-liver_disease_model=pickle.load(open('C:/Users/Ritik/3D Objects/Health Guard System/Saved_models/Liver_disease_model.sav', 'rb'))
+liver_disease_model=pickle.load(open('Liver_disease_model.sav', 'rb'))
 
 # sidebar for navigation
 with st.sidebar:           
