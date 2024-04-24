@@ -8,8 +8,12 @@ The Health Guard Disease Prediction System is a software application designed to
 
 # Getting Started
 Installation:
-1. Install dependencies: pip install -r requirements.txt
-2. Streamlit run Diseases_prediction.py
+## 1. Install dependencies:
+pip install -r requirements.txt
+
+## 2. Run the Streamlit application:
+Streamlit run Diseases_prediction.py
+   
 3. Open a web browser and navigate to the local URL provided by Streamlit.
    LINK TO THE DEPLOYED APP: https://healthguardsystemwebapp.streamlit.app/
 
