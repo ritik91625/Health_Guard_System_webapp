@@ -25,6 +25,7 @@ git clone https://github.com/ritik91625/Health_Guard_System_webapp.git
 1. Python 3.x
 2. Libraries specified in requirements.txt
 ## Screenshots
+<img src- "Screenshot (210).png"
 
 
 
