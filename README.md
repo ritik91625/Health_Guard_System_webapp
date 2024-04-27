@@ -1,7 +1,7 @@
 
 #  Health Guard Prediction System
 
-The Health Guard Disease Prediction System is a software application designed to assist in predicting potential diseases based on input symptoms. This README provides essential information for understanding and using the system effectively.
+The Health Guard Disease Prediction System is a software application designed to assist in predicting potential diseases based on input values. This README provides essential information for understanding and using the system effectively.
 
 
 
